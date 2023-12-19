@@ -61,7 +61,7 @@ hydra -L usernames.txt -P passwords.txt http-post-form://10.10.106.165/login.php
 
 ### Turbo Intruder
 
-### Conclusion
+## Conclusion
 AntarctiCrafts' unexpected breach highlighted the power of specialised brute-force attacks. The swift and successful unauthorised access suggests the attacker likely employed a unique, context-specific wordlist, possibly curated using tools like CeWL. This tool can scan a company's public content to create a wordlist enriched with unique jargon and terminologies.
 
 
