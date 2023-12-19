@@ -65,3 +65,8 @@ Access denied indicates that invalid passwords will lead to a page that contains
 Output gives you the pin which when entered, will give you the flag.
 PIN: 6F5
 Flag: THM{pin-code-brute-force}
+
+Happy to help McHoneyBell
+
+Signing off,<br>
+A93N7_V1KRAM
