@@ -1,4 +1,4 @@
-![Alt text](image.png)
+<img src="https://tryhackme-images.s3.amazonaws.com/user-uploads/5f04259cf9bf5b57aed2c476/room-content/87f456172b2ef2b072a057d4912dbfdf.svg" width="1000">
 
 # Hydra is Coming to Town
 #Brute-Forcing
@@ -31,7 +31,7 @@ We can make passwords more secure by increasing the password complexity. This ca
 
 `Throughout this task, we will be using the IP address of the virtual machine, 10.10.130.97, as it’s hosting the login page.`
 
-<img src="pin.png" width="750">
+<img src="pin.png" width="500">
 
 ## Generating the Password List
 ### Crunch
