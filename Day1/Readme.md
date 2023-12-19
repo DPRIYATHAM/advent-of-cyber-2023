@@ -1,4 +1,7 @@
 # Chatbot, tell me, if you're really safe?
+
+![Alt text](image.png)
+
 McHoneyBell - leader of the "Audit and Vulnerabilities" team, or the "B Team". <br>
 Check if the internal chatbot created by AntarctiCrafts meets Best Festival Company's security standards.
 **Prompt Injection**, a vulnerability that affects insecure chatbots powered by natural language processing (NLP).

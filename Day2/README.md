@@ -1,5 +1,7 @@
 # O Data, All Ye Faithful
 
+![Alt text](image.png)
+
 ### Learning Objectives
 - Get an introduction to what data science involves and how it can be applied in Cybersecurity
 - Get a gentle (We promise) introduction to Python
