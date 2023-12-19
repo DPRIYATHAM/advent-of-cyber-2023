@@ -1,6 +1,7 @@
-# O Data, All Ye Faithful
-
 ![Alt text](image.png)
+
+# O Data, All Ye Faithful 
+#Log Analysis
 
 ### Learning Objectives
 - Get an introduction to what data science involves and how it can be applied in Cybersecurity
