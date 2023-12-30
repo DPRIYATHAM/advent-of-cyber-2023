@@ -14,7 +14,7 @@ A93N7_V1KRAM - a ***Explorer*** exploring Comptia Security+, EC-Council Ethical 
 
 🔍 Join us day by day as A93N7_V1KRAM faces and overcomes obstacles, sharing his experiences from the Advent of Cyber 2023. Witness the journey of camaraderie, problem-solving, and ultimate success.
 
-Ready to unravel the details? Dive into each day's account to discover how A93N7_V1KRAM navigated the complexities and triumphed alongside McHoneyBell.
+Ready to unravel the details? Dive into each day's account to discover how A93N7_V1KRAM navigated the complexities and triumphed alongside McHoneyBell by solving the Advent of Cyber 2023 by **Try Hack Me**.
  
 
 *Hang-On, other day's walkthroughs waiting in the Local Machine, will be pushed to git soon.
