@@ -2,7 +2,7 @@
 
  -- *A93N7_V1KRAM* 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/priyathamdarisi.png" alt="TryHackMe"><br>
+<a href="https://tryhackme.com/p/priyathamdarisi"><img src="https://tryhackme-badges.s3.amazonaws.com/priyathamdarisi.png" alt="TryHackMe"></a><br>
 
 A93N7_V1KRAM - a B.tech Cyber Security ***Student*** studying B.tech CSE in Spec with Cyber Security in IIIT Kottayam<br>
 A93N7_V1KRAM - a avid ***CTF Player***, participated in more than 15+ CTFs (Part of the Institute team)<br>
