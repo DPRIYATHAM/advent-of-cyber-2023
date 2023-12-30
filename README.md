@@ -6,7 +6,7 @@ A93N7_V1KRAM - a B.tech Cyber Security ***Student*** studying B.tech CSE in Spec
 A93N7_V1KRAM - a avid ***CTF Player***, participated in more than 15+ CTFs (Part of the Institute team)<br>
 A93N7_V1KRAM - a ***Leader*** managing the Cyber Security Club IIIT Kottayam, OWASP Chapter IIIT Kottayam<br>
 A93N7_V1KRAM - a ***Speaker*** delivered 3 Webinars on Cyber Security.<br>
-A93N7_V1KRAM - a ***Explorer*** exploring Comptia Security+, ECouncil Ethical Hacker, Google Cyber Security Certifications on Coursera, and more
+A93N7_V1KRAM - a ***Explorer*** exploring Comptia Security+, EC-Council Ethical Hacker, Google Cyber Security Certifications on Coursera, and more
 
 🚀 Embarking on a thrilling journey with A93N7_V1KRAM as he delves into the world of #penetrationtesting, #securityengineering, #securityoperations, #machinelearning, #malwareanalysis, and #digitalforensics. 🌐
 
