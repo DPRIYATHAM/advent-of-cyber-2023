@@ -20,8 +20,10 @@ Ready to unravel the details? Dive into each day's account to discover how A93N7
 
 *Hang-On, other day's walkthroughs waiting in the Local Machine, will be pushed to git soon.
 
-> Please feel free to share your thoughts on this, looking for suggestions and support.
-> Looking for *Internships* in **Cyber Security**, eager to apply the knowledge hands-on and learn more.
+```
+- Please feel free to share your thoughts on this, looking for suggestions and support.
+- Looking for *Internships* in **Cyber Security**, eager to apply the knowledge hands-on and learn more.
+```
 
 Badge A93N7_V1KRAM got: <br>
 <img src="badge.png" width="250">
